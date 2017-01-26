@@ -1,0 +1,23 @@
+{
+  "name": "Angroute",
+  "description": "test route in agular",
+  "main": "idnex.php",
+  "keywords": [
+    "d"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.1",
+    "angular-resource": "^1.5.9"
+  }
+}
